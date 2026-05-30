@@ -178,6 +178,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [SkyHub](https://skyhub.com.br/) - matriz
 * [Unimed FERJ](https://www.unimedrj.coop.br/)
 * [Webedia/Tudogostoso](https://www.tudogostoso.com.br/)
+* [[:koshtech]](https://koshtech.com/)
 
 ### São José dos Campos
 

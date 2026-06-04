@@ -167,6 +167,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [FullLab](https://www.fulllab.com.br/)
 * [Globo.com](https://www.globo.com/) - matriz
 * [Indeva](https://indeva.com.br/)
+* [[:koshtech](https://koshtech.com/)
 * [Lemoney](https://www.lemoney.com/)
 * [Mainô](https://www.maino.com.br/)
 * [Melhores Diaristas](https://www.melhoresdiaristas.com.br/)
